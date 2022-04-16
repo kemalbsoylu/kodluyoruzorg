@@ -2,7 +2,7 @@
 
 This repo contains practices in [Kodluyoruz](https://www.kodluyoruz.org) 
 
-![initial image](figures/kodluyoruzorg.png)
+![initial image](images/kodluyoruzorg.png)
 
 ## Installation
 
