@@ -4,6 +4,8 @@ This repo contains practices in [Kodluyoruz](https://www.kodluyoruz.org)
 
 ![initial image](images/kodluyoruzorg.png)
 
+- [GIT Homework 1](https://app.patika.dev/courses/git/odev1)
+
 ## Installation
 
 ```bash
