@@ -1,0 +1,41 @@
+.main-title, .content-title {
+  display: flex;
+  justify-content: center; 
+}
+.navbar-list {
+  /* list-style-position: inside; */
+  display: flex;
+  justify-content: space-around; 
+  padding-left: 0;
+  list-style-type: none;
+}
+.content-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+  width: 50%;
+  margin: auto;
+}
+.content-list {
+  padding-left: 0;
+  font-weight: bold;
+}
+.content-image {
+  height: 300px;
+  margin-bottom: 10px;
+}
+.footer-text {
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+  font-family: monospace;
+}
+.footer-image {
+  display: flex;
+  justify-content: center;
+  height: 50px;
+}
+p {
+  font-weight: normal;
+}
